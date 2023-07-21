@@ -1,0 +1,9 @@
+{
+	"name": "ADFPAVANDEM",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8be96a4b-2fcf-496d-8453-ec0a5688a5f4",
+		"tenantId": "90478a59-e01b-4060-be30-1587600c3b2b"
+	}
+}
